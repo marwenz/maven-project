@@ -1,4 +1,5 @@
 Author : marwen.zarai
+Email : marwen@gmail.com
 
 Simple helloword project to test CI/CD with Jenkins
 
